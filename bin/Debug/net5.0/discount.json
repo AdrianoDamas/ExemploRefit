@@ -1,0 +1,100 @@
+﻿{
+    "discountThresholdList": [
+        {
+            "family": "10629",
+            "region": "US",
+            "country": "US",
+            "discountPerc": 25.0,
+            "categoryCode": "",
+            "categoryName": ""
+        },
+        {
+            "family": "11807",
+            "region": "US",
+            "country": "US",
+            "discountPerc": 10.0,
+            "categoryCode": "6",
+            "categoryName": "Test Category"
+        },
+        {
+            "family": "13028",
+            "region": "US",
+            "country": "US",
+            "discountPerc": 25.0,
+            "categoryCode": "dell-monitors",
+            "categoryName": "Dell Monitors"
+        },
+        {
+            "family": "13029",
+            "region": "US",
+            "country": "US",
+            "discountPerc": 25.0,
+            "categoryCode": "",
+            "categoryName": ""
+        },
+        {
+            "family": "13030",
+            "region": "US",
+            "country": "US",
+            "discountPerc": 60.0,
+            "categoryCode": "latitude-5000-laptops",
+            "categoryName": "Latitude 5000 Laptops"
+        },
+        {
+            "family": "13222",
+            "region": "US",
+            "country": "US",
+            "discountPerc": 5.0,
+            "categoryCode": "6",
+            "categoryName": "Test Category"
+        },
+        {
+            "family": "13739",
+            "region": "US",
+            "country": "US",
+            "discountPerc": 25.0,
+            "categoryCode": "",
+            "categoryName": ""
+        },
+        {
+            "family": "13741",
+            "region": "US",
+            "country": "US",
+            "discountPerc": 25.0,
+            "categoryCode": "6",
+            "categoryName": "Deployment Services"
+        },
+        {
+            "family": "13894",
+            "region": "US",
+            "country": "US",
+            "discountPerc": 25.0,
+            "categoryCode": "",
+            "categoryName": ""
+        },
+        {
+            "family": "14118",
+            "region": "US",
+            "country": "US",
+            "discountPerc": 12.0,
+            "categoryCode": "",
+            "categoryName": ""
+        },
+        {
+            "family": "14120",
+            "region": "EMEA",
+            "country": "FR",
+            "discountPerc": 55.0,
+            "categoryCode": "",
+            "categoryName": ""
+        },
+        {
+            "family": "14155",
+            "region": "EMEA",
+            "country": "DE",
+            "discountPerc": 17.0,
+            "categoryCode": "latitude-5000-laptops",
+            "categoryName": "Latitude 5000 Laptops"
+        }
+    ]
+}
